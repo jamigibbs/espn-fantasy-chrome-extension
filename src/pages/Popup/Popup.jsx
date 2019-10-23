@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-//import { Client } from 'espn-fantasy-football-api';
-import { Client, Player } from '../../ESPN-Fantasy-Football-API/web-dev'
+import { Client } from 'espn-fantasy-football-api';
 import Greetings from '../../containers/Greetings/Greetings';
 import './Popup.css';
 
